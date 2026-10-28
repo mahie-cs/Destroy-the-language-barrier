@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Lingua Aid](https://maine-cs.github.io/Destroy-the-language-barrier/)
+# [Lingua Aid](https://mahie-cs.github.io/Destroy-the-language-barrier/)
 
 </div>
 
