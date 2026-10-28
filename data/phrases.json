@@ -1,0 +1,122 @@
+{
+  "hospital": {
+    "icon": "🏥",
+    "group": "e",
+    "tr": {
+      "en": "Where is the hospital?",
+      "it": ["Dov’è l’ospedale?", "doh-VEH lo-speh-DAH-leh"],
+      "fr": ["Où est l’hôpital ?", "oo eh loh-pee-TAHL"],
+      "es": ["¿Dónde está el hospital?", "DOHN-deh es-TAH el os-pee-TAL"],
+      "ja": ["病院はどこですか？", "byoh-in wa doh-ko des-ka"],
+      "bn": ["হাসপাতাল কোথায়?", "haash-pa-taal ko-thaay"]
+    }
+  },
+  "police": {
+    "icon": "🚓",
+    "group": "e",
+    "tr": {
+      "en": "Where is the police station?",
+      "it": ["Dov’è la stazione di polizia?", "doh-VEH lah stah-tsee-OH-neh dee poh-lee-TSEE-ah"],
+      "fr": ["Où est le commissariat ?", "oo eh luh koh-mee-sah-ree-AH"],
+      "es": ["¿Dónde está la comisaría?", "DOHN-deh es-TAH lah koh-mee-sah-REE-ah"],
+      "ja": ["警察署はどこですか？", "kay-sa-tsu-sho wa doh-ko des-ka"],
+      "bn": ["থানা কোথায়?", "tha-na ko-thaay"]
+    }
+  },
+  "help": {
+    "icon": "🆘",
+    "group": "e",
+    "tr": {
+      "en": "Help me, please!",
+      "it": ["Aiutatemi, per favore!", "ah-yoo-TAH-teh-mee pehr fah-VOH-reh"],
+      "fr": ["Aidez-moi, s’il vous plaît !", "eh-day MWAH seel voo PLEH"],
+      "es": ["¡Ayúdeme, por favor!", "ah-YOO-deh-meh por fah-VOR"],
+      "ja": ["助けてください！", "ta-su-ke-te kuh-da-sai"],
+      "bn": ["দয়া করে সাহায্য করুন!", "do-ya ko-re shah-jjo ko-run"]
+    }
+  },
+  "doctor": {
+    "icon": "🩺",
+    "group": "e",
+    "tr": {
+      "en": "I need a doctor.",
+      "it": ["Ho bisogno di un medico.", "oh bee-ZOH-nyoh dee oon MEH-dee-koh"],
+      "fr": ["J’ai besoin d’un médecin.", "zhay buh-ZWAN dun mayd-SAN"],
+      "es": ["Necesito un médico.", "neh-seh-SEE-toh oon MEH-dee-koh"],
+      "ja": ["医者が必要です。", "ee-sha ga hit-syoh des"],
+      "bn": ["আমার একজন ডাক্তার দরকার।", "amar ek-jon dak-tar dor-kar"]
+    }
+  },
+  "ambulance": {
+    "icon": "🚑",
+    "group": "e",
+    "tr": {
+      "en": "Call an ambulance!",
+      "it": ["Chiamate un’ambulanza!", "kee-ah-MAH-teh oon ahm-boo-LAHN-tsah"],
+      "fr": ["Appelez une ambulance !", "ah-puh-LAY oon ahn-bew-LAHNSS"],
+      "es": ["¡Llamen a una ambulancia!", "YAH-men ah OO-nah am-boo-LAN-see-ah"],
+      "ja": ["救急車を呼んでください！", "kyoo-kyoo-sha oh yon-de kuh-da-sai"],
+      "bn": ["অ্যাম্বুলেন্স ডাকুন!", "am-bu-lens da-kun"]
+    }
+  },
+  "name": {
+    "icon": "👋",
+    "group": "c",
+    "tr": {
+      "en": "What’s your name?",
+      "it": ["Come ti chiami?", "KOH-meh tee kee-AH-mee"],
+      "fr": ["Comment vous appelez-vous ?", "koh-MAHN voo zah-puh-lay VOO"],
+      "es": ["¿Cómo se llama?", "KOH-moh seh YAH-mah"],
+      "ja": ["お名前は何ですか？", "oh-na-mae wa nan des-ka"],
+      "bn": ["আপনার নাম কী?", "ap-nar naam ki"]
+    }
+  },
+  "thanks": {
+    "icon": "🙏",
+    "group": "c",
+    "tr": {
+      "en": "Thank you.",
+      "it": ["Grazie.", "GRAH-tsee-eh"],
+      "fr": ["Merci.", "mehr-SEE"],
+      "es": ["Gracias.", "GRAH-see-ahs"],
+      "ja": ["ありがとう。", "a-ree-ga-toh"],
+      "bn": ["ধন্যবাদ।", "dhon-no-baad"]
+    }
+  },
+  "toilet": {
+    "icon": "🚻",
+    "group": "c",
+    "tr": {
+      "en": "Where is the toilet?",
+      "it": ["Dov’è il bagno?", "doh-VEH eel BAH-nyoh"],
+      "fr": ["Où sont les toilettes ?", "oo sohn lay twah-LET"],
+      "es": ["¿Dónde está el baño?", "DOHN-deh es-TAH el BAH-nyoh"],
+      "ja": ["トイレはどこですか？", "toy-reh wa doh-ko des-ka"],
+      "bn": ["টয়লেট কোথায়?", "toy-let ko-thaay"]
+    }
+  },
+  "water": {
+    "icon": "💧",
+    "group": "c",
+    "tr": {
+      "en": "Where can I get water?",
+      "it": ["Dove posso trovare acqua?", "DOH-veh POHS-soh troh-VAH-reh AHK-kwah"],
+      "fr": ["Où puis-je trouver de l’eau ?", "oo pwee-zhuh troo-VAY duh LOH"],
+      "es": ["¿Dónde puedo conseguir agua?", "DOHN-deh PWEH-doh kon-seh-GEER AH-gwah"],
+      "ja": ["水はどこで買えますか？", "mee-zoo wa doh-ko deh ka-e-mas-ka"],
+      "bn": ["পানি কোথায় পাওয়া যাবে?", "paa-ni ko-thaay paa-oa ja-be"]
+    }
+  },
+  "understand": {
+    "icon": "🤷",
+    "group": "c",
+    "tr": {
+      "en": "I don’t understand.",
+      "it": ["Non capisco.", "nohn kah-PEE-skoh"],
+      "fr": ["Je ne comprends pas.", "zhuh nuh kohm-PRAHN pah"],
+      "es": ["No entiendo.", "noh en-tee-EN-doh"],
+      "ja": ["わかりません。", "wa-ka-ree-ma-sen"],
+      "bn": ["আমি বুঝতে পারছি না।", "aami bujh-te par-chi na"]
+    }
+  }
+}

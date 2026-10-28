@@ -1,0 +1,64 @@
+{
+  "BD": {
+    "name": "Bangladesh",
+    "flag": "🇧🇩",
+    "lang": "bn",
+    "locale": "bn-BD",
+    "numbers": [
+      ["National emergency", "999"],
+      ["Fire service", "199"]
+    ]
+  },
+  "FR": {
+    "name": "France",
+    "flag": "🇫🇷",
+    "lang": "fr",
+    "locale": "fr-FR",
+    "numbers": [
+      ["Emergency (EU)", "112"],
+      ["Medical (SAMU)", "15"],
+      ["Police", "17"],
+      ["Fire", "18"]
+    ]
+  },
+  "IT": {
+    "name": "Italy",
+    "flag": "🇮🇹",
+    "lang": "it",
+    "locale": "it-IT",
+    "numbers": [
+      ["Emergency (EU)", "112"],
+      ["Police", "113"],
+      ["Fire", "115"],
+      ["Medical", "118"]
+    ]
+  },
+  "JP": {
+    "name": "Japan",
+    "flag": "🇯🇵",
+    "lang": "ja",
+    "locale": "ja-JP",
+    "numbers": [
+      ["Police", "110"],
+      ["Fire / Ambulance", "119"]
+    ]
+  },
+  "ES": { "name": "Spain", "flag": "🇪🇸", "lang": "es", "locale": "es-ES", "numbers": [["Emergency", "112"]] },
+  "GB": {
+    "name": "United Kingdom",
+    "flag": "🇬🇧",
+    "lang": "en",
+    "locale": "en-GB",
+    "numbers": [
+      ["Emergency", "999"],
+      ["Emergency (EU)", "112"]
+    ]
+  },
+  "US": {
+    "name": "United States",
+    "flag": "🇺🇸",
+    "lang": "en",
+    "locale": "en-US",
+    "numbers": [["Emergency", "911"]]
+  }
+}

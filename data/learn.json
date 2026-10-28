@@ -1,0 +1,352 @@
+{
+  "categories": [
+    {
+      "id": "greetings",
+      "icon": "👋",
+      "title": "Greetings",
+      "phrases": [
+        {
+          "id": "hello",
+          "en": "Hello",
+          "tr": {
+            "en": { "f": "Hello", "i": "Hi!" },
+            "it": { "f": "Buongiorno.|bwon-JOR-noh", "i": "Ciao!|chow" },
+            "fr": { "f": "Bonjour.|bohn-ZHOOR", "i": "Salut !|sah-LEW" },
+            "es": { "f": "Buenos días.|BWEH-nohs DEE-ahs", "i": "¡Hola!|OH-lah" },
+            "ja": { "f": "こんにちは。|kohn-nee-chee-wah", "i": "やあ！|yaa" },
+            "bn": { "f": "হ্যালো।|hel-lo" }
+          }
+        },
+        {
+          "id": "goodbye",
+          "en": "Goodbye",
+          "tr": {
+            "en": { "f": "Goodbye", "i": "Bye!" },
+            "it": { "f": "Arrivederci.|ar-ree-veh-DEHR-chee", "i": "Ciao!|chow" },
+            "fr": { "f": "Au revoir.|oh ruh-VWAR", "i": "À plus !|ah PLEWSS" },
+            "es": { "f": "Adiós.|ah-DYOHS", "i": "¡Chao!|CHAH-oh" },
+            "ja": { "f": "さようなら。|sa-yoh-na-ra", "i": "じゃあね。|jaa neh" },
+            "bn": { "f": "বিদায়।|bi-daay" }
+          }
+        },
+        {
+          "id": "please",
+          "en": "Please",
+          "tr": {
+            "en": { "f": "Please" },
+            "it": { "f": "Per favore.|pehr fah-VOH-reh" },
+            "fr": { "f": "S’il vous plaît.|seel voo PLEH", "i": "S’il te plaît.|seel tuh PLEH" },
+            "es": { "f": "Por favor.|por fah-VOR" },
+            "ja": { "f": "お願いします。|oh-neh-gai shee-mass", "i": "お願い。|oh-neh-gai" },
+            "bn": { "f": "দয়া করে।|do-ya ko-re" }
+          }
+        },
+        {
+          "id": "excuse_me",
+          "en": "Excuse me",
+          "tr": {
+            "en": { "f": "Excuse me", "i": "Sorry!" },
+            "it": { "f": "Mi scusi.|mee SKOO-zee", "i": "Scusa.|SKOO-zah" },
+            "fr": { "f": "Excusez-moi.|ex-kew-zay MWAH", "i": "Excuse-moi.|ex-kewz MWAH" },
+            "es": { "f": "Disculpe.|dees-KOOL-peh", "i": "Perdona.|per-DOH-nah" },
+            "ja": { "f": "すみません。|soo-mee-ma-sen", "i": "ごめん。|go-men" },
+            "bn": { "f": "মাফ করবেন।|maaf kor-ben", "i": "মাফ করো।|maaf ko-ro" }
+          }
+        },
+        {
+          "id": "my_name_is",
+          "en": "My name is…",
+          "tr": {
+            "en": { "f": "My name is…" },
+            "it": { "f": "Mi chiamo…|mee KYAH-moh" },
+            "fr": { "f": "Je m’appelle…|zhuh mah-PEL" },
+            "es": { "f": "Me llamo…|meh YAH-moh" },
+            "ja": { "f": "私は…です。|wah-tah-shee wah … dess", "i": "名前は…だよ。|na-mae wa … da yo" },
+            "bn": { "f": "আমার নাম…|aa-mar naam" }
+          }
+        }
+      ]
+    },
+    {
+      "id": "getting_around",
+      "icon": "🧭",
+      "title": "Getting around",
+      "phrases": [
+        {
+          "id": "where_is_the_station",
+          "en": "Where is the station?",
+          "tr": {
+            "en": { "f": "Where is the station?" },
+            "it": { "f": "Dov’è la stazione?|doh-VEH lah stah-TSYOH-neh" },
+            "fr": { "f": "Où est la gare ?|oo eh lah GAR" },
+            "es": { "f": "¿Dónde está la estación?|DOHN-deh es-TAH lah es-tah-SYOHN" },
+            "ja": { "f": "駅はどこですか？|eh-kee wa doh-ko dess ka", "i": "駅どこ？|eh-kee doh-ko" },
+            "bn": { "f": "স্টেশন কোথায়?|stey-shon ko-thaay" }
+          }
+        },
+        {
+          "id": "i_need_a_taxi",
+          "en": "I need a taxi.",
+          "tr": {
+            "en": { "f": "I need a taxi." },
+            "it": { "f": "Ho bisogno di un taxi.|oh bee-ZOH-nyoh dee oon TAHK-see" },
+            "fr": { "f": "J’ai besoin d’un taxi.|zhay buh-ZWAN dun tahk-SEE" },
+            "es": { "f": "Necesito un taxi.|neh-seh-SEE-toh oon TAK-see" },
+            "ja": {
+              "f": "タクシーが必要です。|tak-shee ga hit-syoh dess",
+              "i": "タクシーが必要。|tak-shee ga hit-syoh"
+            },
+            "bn": { "f": "আমার একটা ট্যাক্সি দরকার।|aa-mar ek-ta tyak-si dor-kar" }
+          }
+        },
+        {
+          "id": "how_do_i_get_to",
+          "en": "How do I get to…?",
+          "tr": {
+            "en": { "f": "How do I get to…?" },
+            "it": { "f": "Come arrivo a…?|KOH-meh ar-REE-voh ah" },
+            "fr": { "f": "Comment aller à… ?|koh-MAHN ah-LAY ah" },
+            "es": { "f": "¿Cómo llego a…?|KOH-moh YEH-goh ah" },
+            "ja": {
+              "f": "…へはどう行けばいいですか？|eh wa doh ee-keh-bah ee dess ka",
+              "i": "…にはどう行けばいい？|nee wa doh ee-keh-bah ee"
+            },
+            "bn": { "f": "…এ কীভাবে যাব?|e ki-bha-be jaab" }
+          }
+        },
+        {
+          "id": "is_it_far",
+          "en": "Is it far?",
+          "tr": {
+            "en": { "f": "Is it far?" },
+            "it": { "f": "È lontano?|eh lon-TAH-noh" },
+            "fr": { "f": "C’est loin ?|seh LWAN" },
+            "es": { "f": "¿Está lejos?|es-TAH LEH-hohs" },
+            "ja": { "f": "遠いですか？|toh-ee dess ka", "i": "遠い？|toh-ee" },
+            "bn": { "f": "এটা কি অনেক দূরে?|e-ta ki o-nek doo-re" }
+          }
+        }
+      ]
+    },
+    {
+      "id": "food_and_drink",
+      "icon": "🍽️",
+      "title": "Food and drink",
+      "phrases": [
+        {
+          "id": "a_table_for_two_please",
+          "en": "A table for two, please.",
+          "tr": {
+            "en": { "f": "A table for two, please." },
+            "it": { "f": "Un tavolo per due, per favore.|oon TAH-voh-loh pehr DOO-eh pehr fah-VOH-reh" },
+            "fr": {
+              "f": "Une table pour deux, s’il vous plaît.|oon TAH-bluh poor DUH seel voo PLEH",
+              "i": "Une table pour deux, s’il te plaît.|oon TAH-bluh poor DUH seel tuh PLEH"
+            },
+            "es": { "f": "Una mesa para dos, por favor.|OO-nah MEH-sah PAH-rah dohs por fah-VOR" },
+            "ja": { "f": "二人です。お願いします。|foo-ta-ree dess. oh-neh-gai shee-mass" },
+            "bn": {
+              "f": "দুজনের জন্য একটা টেবিল দিন।|du-jo-ner jo-nno ek-ta te-bil deen",
+              "i": "দুজনের জন্য একটা টেবিল দাও।|du-jo-ner jo-nno ek-ta te-bil dao"
+            }
+          }
+        },
+        {
+          "id": "the_menu_please",
+          "en": "The menu, please.",
+          "tr": {
+            "en": { "f": "The menu, please." },
+            "it": { "f": "Il menù, per favore.|eel meh-NOO pehr fah-VOH-reh" },
+            "fr": {
+              "f": "La carte, s’il vous plaît.|lah KART seel voo PLEH",
+              "i": "La carte, s’il te plaît.|lah KART seel tuh PLEH"
+            },
+            "es": { "f": "La carta, por favor.|lah KAR-tah por fah-VOR" },
+            "ja": { "f": "メニューをお願いします。|meh-nyoo oh oh-neh-gai shee-mass" },
+            "bn": { "f": "মেনুটা দিন।|me-nu-ta deen", "i": "মেনুটা দাও।|me-nu-ta dao" }
+          }
+        },
+        {
+          "id": "the_bill_please",
+          "en": "The bill, please.",
+          "tr": {
+            "en": { "f": "The bill, please." },
+            "it": { "f": "Il conto, per favore.|eel KOHN-toh pehr fah-VOH-reh" },
+            "fr": {
+              "f": "L’addition, s’il vous plaît.|lah-dee-SYOHN seel voo PLEH",
+              "i": "L’addition, s’il te plaît.|lah-dee-SYOHN seel tuh PLEH"
+            },
+            "es": { "f": "La cuenta, por favor.|lah KWEN-tah por fah-VOR" },
+            "ja": { "f": "お会計をお願いします。|oh-kai-kay oh oh-neh-gai shee-mass" },
+            "bn": { "f": "বিলটা দিন।|bil-ta deen", "i": "বিলটা দাও।|bil-ta dao" }
+          }
+        },
+        {
+          "id": "i_m_allergic_to_nuts",
+          "en": "I’m allergic to nuts.",
+          "tr": {
+            "en": { "f": "I’m allergic to nuts." },
+            "it": {
+              "f": "Sono allergico/a alla frutta secca.|SOH-noh ahl-LEHR-jee-koh AHL-lah FROOT-tah SEK-kah"
+            },
+            "fr": { "f": "Je suis allergique aux noix.|zhuh swee ah-lehr-ZHEEK oh NWAH" },
+            "es": {
+              "f": "Soy alérgico/a a los frutos secos.|soy ah-LEHR-hee-koh ah lohs FROO-tohs SEH-kohs"
+            },
+            "ja": {
+              "f": "ナッツアレルギーがあります。|nat-tsoo a-reh-roo-gee ga a-ree-mass",
+              "i": "ナッツアレルギーがある。|nat-tsoo a-reh-roo-gee ga a-roo"
+            },
+            "bn": { "f": "আমার বাদামে অ্যালার্জি আছে।|aa-mar baa-daa-me al-lar-ji aa-chhe" }
+          }
+        }
+      ]
+    },
+    {
+      "id": "shopping_and_money",
+      "icon": "🛍️",
+      "title": "Shopping and money",
+      "phrases": [
+        {
+          "id": "how_much_is_it",
+          "en": "How much is it?",
+          "tr": {
+            "en": { "f": "How much is it?" },
+            "it": { "f": "Quanto costa?|KWAN-toh KOH-stah" },
+            "fr": { "f": "C’est combien ?|seh kohm-BYAN" },
+            "es": { "f": "¿Cuánto cuesta?|KWAN-toh KWEH-stah" },
+            "ja": { "f": "いくらですか？|ee-koo-ra dess ka", "i": "いくら？|ee-koo-ra" },
+            "bn": { "f": "এটার দাম কত?|e-tar daam ko-to" }
+          }
+        },
+        {
+          "id": "that_s_too_expensive",
+          "en": "That’s too expensive.",
+          "tr": {
+            "en": { "f": "That’s too expensive." },
+            "it": { "f": "È troppo caro.|eh TROHP-poh KAH-roh" },
+            "fr": { "f": "C’est trop cher.|seh troh SHAIR" },
+            "es": { "f": "Es demasiado caro.|es deh-mah-SYAH-doh KAH-roh" },
+            "ja": { "f": "高すぎます。|ta-ka-soo-gee-mass", "i": "高すぎる。|ta-ka-soo-gee-roo" },
+            "bn": { "f": "অনেক বেশি দাম।|o-nek be-shi daam" }
+          }
+        },
+        {
+          "id": "do_you_accept_cards",
+          "en": "Do you accept cards?",
+          "tr": {
+            "en": { "f": "Do you accept cards?" },
+            "it": { "f": "Accettate carte di credito?|ah-cheht-TAH-teh KAR-teh dee KREH-dee-toh" },
+            "fr": {
+              "f": "Vous acceptez les cartes ?|voo zahk-sep-TAY lay KART",
+              "i": "Tu acceptes les cartes ?|tew ahk-SEPT lay KART"
+            },
+            "es": { "f": "¿Aceptan tarjetas?|ah-SEP-tahn tar-HEH-tahs" },
+            "ja": {
+              "f": "カードは使えますか？|kah-doh wa tsoo-kah-eh-mass ka",
+              "i": "カード使える？|kah-doh tsoo-kah-eh-roo"
+            },
+            "bn": { "f": "কার্ড নেবেন?|kaard ne-ben", "i": "কার্ড নেবে?|kaard ne-be" }
+          }
+        }
+      ]
+    },
+    {
+      "id": "being_understood",
+      "icon": "💬",
+      "title": "Being understood",
+      "phrases": [
+        {
+          "id": "do_you_speak_english",
+          "en": "Do you speak English?",
+          "tr": {
+            "en": { "f": "Do you speak English?" },
+            "it": { "f": "Parla inglese?|PAR-lah een-GLEH-zeh", "i": "Parli inglese?|PAR-lee een-GLEH-zeh" },
+            "fr": {
+              "f": "Parlez-vous anglais ?|par-lay VOO ahn-GLAY",
+              "i": "Tu parles anglais ?|tew PARL ahn-GLAY"
+            },
+            "es": { "f": "¿Habla inglés?|AH-blah een-GLEHS", "i": "¿Hablas inglés?|AH-blahs een-GLEHS" },
+            "ja": {
+              "f": "英語を話せますか？|eh-go oh ha-na-seh-mass ka",
+              "i": "英語話せる？|eh-go ha-na-seh-roo"
+            },
+            "bn": {
+              "f": "আপনি কি ইংরেজি বলতে পারেন?|ap-ni ki ing-re-ji bol-te paa-ren",
+              "i": "তুমি কি ইংরেজি বলতে পারো?|tu-mi ki ing-re-ji bol-te paa-ro"
+            }
+          }
+        },
+        {
+          "id": "please_speak_slowly",
+          "en": "Please speak slowly.",
+          "tr": {
+            "en": { "f": "Please speak slowly.", "i": "Slow down a bit, please." },
+            "it": {
+              "f": "Parli più lentamente, per favore.|PAR-lee pyoo lehn-tah-MEHN-teh pehr fah-VOH-reh",
+              "i": "Parla più lentamente, per favore.|PAR-lah pyoo lehn-tah-MEHN-teh pehr fah-VOH-reh"
+            },
+            "fr": {
+              "f": "Parlez lentement, s’il vous plaît.|par-LAY lahnt-MAHN seel voo PLEH",
+              "i": "Parle lentement, s’il te plaît.|parl lahnt-MAHN seel tuh PLEH"
+            },
+            "es": {
+              "f": "Hable más despacio, por favor.|AH-bleh mahs des-PAH-syoh por fah-VOR",
+              "i": "Habla más despacio, por favor.|AH-blah mahs des-PAH-syoh por fah-VOR"
+            },
+            "ja": {
+              "f": "ゆっくり話してください。|yook-koo-ree ha-na-shi-teh koo-da-sai",
+              "i": "ゆっくり話して。|yook-koo-ree ha-na-shi-teh"
+            },
+            "bn": { "f": "আস্তে বলুন।|aas-te bo-lun", "i": "আস্তে বলো।|aas-te bo-lo" }
+          }
+        },
+        {
+          "id": "can_you_repeat_that",
+          "en": "Can you repeat that?",
+          "tr": {
+            "en": { "f": "Can you repeat that?", "i": "Say that again?" },
+            "it": { "f": "Può ripetere?|pwoh ree-PEH-teh-reh", "i": "Puoi ripetere?|pwoy ree-PEH-teh-reh" },
+            "fr": {
+              "f": "Pouvez-vous répéter ?|poo-vay VOO ray-pay-TAY",
+              "i": "Tu peux répéter ?|tew puh ray-pay-TAY"
+            },
+            "es": {
+              "f": "¿Puede repetir?|PWEH-deh reh-peh-TEER",
+              "i": "¿Puedes repetir?|PWEH-dehs reh-peh-TEER"
+            },
+            "ja": {
+              "f": "もう一度お願いします。|moh ee-chee-doh oh-neh-gai shee-mass",
+              "i": "もう一回言って。|moh ik-kai it-teh"
+            },
+            "bn": { "f": "আবার বলবেন?|aa-baar bol-ben", "i": "আবার বলবে?|aa-baar bol-be" }
+          }
+        },
+        {
+          "id": "can_you_write_it_down",
+          "en": "Can you write it down?",
+          "tr": {
+            "en": { "f": "Can you write it down?" },
+            "it": { "f": "Può scriverlo?|pwoh SKREE-vehr-loh", "i": "Puoi scriverlo?|pwoy SKREE-vehr-loh" },
+            "fr": {
+              "f": "Pouvez-vous l’écrire ?|poo-vay VOO lay-KREER",
+              "i": "Tu peux l’écrire ?|tew puh lay-KREER"
+            },
+            "es": {
+              "f": "¿Puede escribirlo?|PWEH-deh es-kree-BEER-loh",
+              "i": "¿Puedes escribirlo?|PWEH-dehs es-kree-BEER-loh"
+            },
+            "ja": {
+              "f": "書いてもらえますか？|kai-teh mo-ra-eh-mass ka",
+              "i": "書いてくれる？|kai-teh koo-reh-roo"
+            },
+            "bn": {
+              "f": "লিখে দিতে পারবেন?|li-khe di-te paar-ben",
+              "i": "লিখে দিতে পারবে?|li-khe di-te paar-be"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
