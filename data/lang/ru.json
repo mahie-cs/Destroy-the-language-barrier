@@ -1,0 +1,85 @@
+{
+  "code": "ru",
+  "phrases": {
+    "hospital": "Где больница?|Gde bol'nitsa?",
+    "police": "Где полиция?|Gde politsiya?",
+    "help": "Помогите, пожалуйста!|Pomogite, pozhalusta!",
+    "doctor": "Мне нужен врач.|Mne nuzhen vrach.",
+    "ambulance": "Вызовите скорую помощь!|Vyzovite skoruyu pomoshch'!",
+    "name": "Как вас зовут?|Kak vas zovut?",
+    "thanks": "Спасибо.|Spasibo.",
+    "toilet": "Где туалет?|Gde tualet?",
+    "water": "Где можно взять воду?|Gde mozhno vzyat' vodu?",
+    "understand": "Я не понимаю.|Ya ne ponimayu."
+  },
+  "learn": {
+    "hello": {
+      "f": "Здравствуйте.|Zdravstvuyte.",
+      "i": "Привет!|Privet!"
+    },
+    "goodbye": {
+      "f": "До свидания.|Do svidaniya.",
+      "i": "Пока!|Poka!"
+    },
+    "please": {
+      "f": "Пожалуйста.|Pozhalusta."
+    },
+    "excuse_me": {
+      "f": "Извините.|Izvinite.",
+      "i": "Извини.|Izvini."
+    },
+    "my_name_is": {
+      "f": "Меня зовут…|Menya zovut..."
+    },
+    "where_is_the_station": {
+      "f": "Где вокзал?|Gde vokzal?"
+    },
+    "i_need_a_taxi": {
+      "f": "Мне нужно такси.|Mne nuzhno taksi."
+    },
+    "how_do_i_get_to": {
+      "f": "Как добраться до…|Kak dobratsya do..."
+    },
+    "is_it_far": {
+      "f": "Это далеко?|Eto daleko?"
+    },
+    "a_table_for_two_please": {
+      "f": "Столик на двоих, пожалуйста.|Stolik na dvoikh, pozhalusta."
+    },
+    "the_menu_please": {
+      "f": "Меню, пожалуйста.|Menyu, pozhalusta."
+    },
+    "the_bill_please": {
+      "f": "Счет, пожалуйста.|Schet, pozhalusta."
+    },
+    "i_m_allergic_to_nuts": {
+      "f": "У меня аллергия на орехи.|U menya allergiya na orekhi."
+    },
+    "how_much_is_it": {
+      "f": "Сколько это стоит?|Skol'ko eto stoit?"
+    },
+    "that_s_too_expensive": {
+      "f": "Это слишком дорого.|Eto slishkom dorogo."
+    },
+    "do_you_accept_cards": {
+      "f": "Вы принимаете карты?|Vy prinimayete karty?",
+      "i": "Принимаешь карты?|Prinimayesh' karty?"
+    },
+    "do_you_speak_english": {
+      "f": "Вы говорите по-английски?|Vy govorite po-angliyski?",
+      "i": "Говоришь по-английски?|Govorish' po-angliyski?"
+    },
+    "please_speak_slowly": {
+      "f": "Говорите медленнее, пожалуйста.|Govorite medlennee, pozhalusta.",
+      "i": "Говори медленнее, пожалуйста.|Govori medlennee, pozhalusta."
+    },
+    "can_you_repeat_that": {
+      "f": "Вы не могли бы повторить?|Vy ne mogli by povtorit'?",
+      "i": "Можешь повторить?|Mozhesh' povtorit'?"
+    },
+    "can_you_write_it_down": {
+      "f": "Вы не могли бы это записать?|Vy ne mogli by eto zapisat'?",
+      "i": "Можешь записать это?|Mozhesh' zapisat' eto?"
+    }
+  }
+}
