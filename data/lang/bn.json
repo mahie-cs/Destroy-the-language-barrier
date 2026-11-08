@@ -1,0 +1,37 @@
+{
+  "code": "bn",
+  "phrases": {
+    "hospital": "হাসপাতাল কোথায়?|haash-pa-taal ko-thaay",
+    "police": "থানা কোথায়?|tha-na ko-thaay",
+    "help": "দয়া করে সাহায্য করুন!|do-ya ko-re shah-jjo ko-run",
+    "doctor": "আমার একজন ডাক্তার দরকার।|amar ek-jon dak-tar dor-kar",
+    "ambulance": "অ্যাম্বুলেন্স ডাকুন!|am-bu-lens da-kun",
+    "name": "আপনার নাম কী?|ap-nar naam ki",
+    "thanks": "ধন্যবাদ।|dhon-no-baad",
+    "toilet": "টয়লেট কোথায়?|toy-let ko-thaay",
+    "water": "পানি কোথায় পাওয়া যাবে?|paa-ni ko-thaay paa-oa ja-be",
+    "understand": "আমি বুঝতে পারছি না।|aami bujh-te par-chi na"
+  },
+  "learn": {
+    "hello": {"f": "হ্যালো।|hel-lo"},
+    "goodbye": {"f": "বিদায়।|bi-daay"},
+    "please": {"f": "দয়া করে।|do-ya ko-re"},
+    "excuse_me": {"f": "মাফ করবেন।|maaf kor-ben", "i": "মাফ করো।|maaf ko-ro"},
+    "my_name_is": {"f": "আমার নাম…|aa-mar naam"},
+    "where_is_the_station": {"f": "স্টেশন কোথায়?|stey-shon ko-thaay"},
+    "i_need_a_taxi": {"f": "আমার একটা ট্যাক্সি দরকার।|aa-mar ek-ta tyak-si dor-kar"},
+    "how_do_i_get_to": {"f": "…এ কীভাবে যাব?|e ki-bha-be jaab"},
+    "is_it_far": {"f": "এটা কি অনেক দূরে?|e-ta ki o-nek doo-re"},
+    "a_table_for_two_please": {"f": "দুজনের জন্য একটা টেবিল দিন।|du-jo-ner jo-nno ek-ta te-bil deen", "i": "দুজনের জন্য একটা টেবিল দাও।|du-jo-ner jo-nno ek-ta te-bil dao"},
+    "the_menu_please": {"f": "মেনুটা দিন।|me-nu-ta deen", "i": "মেনুটা দাও।|me-nu-ta dao"},
+    "the_bill_please": {"f": "বিলটা দিন।|bil-ta deen", "i": "বিলটা দাও।|bil-ta dao"},
+    "i_m_allergic_to_nuts": {"f": "আমার বাদামে অ্যালার্জি আছে।|aa-mar baa-daa-me al-lar-ji aa-chhe"},
+    "how_much_is_it": {"f": "এটার দাম কত?|e-tar daam ko-to"},
+    "that_s_too_expensive": {"f": "অনেক বেশি দাম।|o-nek be-shi daam"},
+    "do_you_accept_cards": {"f": "কার্ড নেবেন?|kaard ne-ben", "i": "কার্ড নেবে?|kaard ne-be"},
+    "do_you_speak_english": {"f": "আপনি কি ইংরেজি বলতে পারেন?|ap-ni ki ing-re-ji bol-te paa-ren", "i": "তুমি কি ইংরেজি বলতে পারো?|tu-mi ki ing-re-ji bol-te paa-ro"},
+    "please_speak_slowly": {"f": "আস্তে বলুন।|aas-te bo-lun", "i": "আস্তে বলো।|aas-te bo-lo"},
+    "can_you_repeat_that": {"f": "আবার বলবেন?|aa-baar bol-ben", "i": "আবার বলবে?|aa-baar bol-be"},
+    "can_you_write_it_down": {"f": "লিখে দিতে পারবেন?|li-khe di-te paar-ben", "i": "লিখে দিতে পারবে?|li-khe di-te paar-be"}
+  }
+}

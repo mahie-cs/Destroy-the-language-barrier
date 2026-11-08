@@ -1,0 +1,37 @@
+{
+  "code": "es",
+  "phrases": {
+    "hospital": "¿Dónde está el hospital?|DOHN-deh es-TAH el os-pee-TAL",
+    "police": "¿Dónde está la comisaría?|DOHN-deh es-TAH lah koh-mee-sah-REE-ah",
+    "help": "¡Ayúdeme, por favor!|ah-YOO-deh-meh por fah-VOR",
+    "doctor": "Necesito un médico.|neh-seh-SEE-toh oon MEH-dee-koh",
+    "ambulance": "¡Llamen a una ambulancia!|YAH-men ah OO-nah am-boo-LAN-see-ah",
+    "name": "¿Cómo se llama?|KOH-moh seh YAH-mah",
+    "thanks": "Gracias.|GRAH-see-ahs",
+    "toilet": "¿Dónde está el baño?|DOHN-deh es-TAH el BAH-nyoh",
+    "water": "¿Dónde puedo conseguir agua?|DOHN-deh PWEH-doh kon-seh-GEER AH-gwah",
+    "understand": "No entiendo.|noh en-tee-EN-doh"
+  },
+  "learn": {
+    "hello": {"f": "Buenos días.|BWEH-nohs DEE-ahs", "i": "¡Hola!|OH-lah"},
+    "goodbye": {"f": "Adiós.|ah-DYOHS", "i": "¡Chao!|CHAH-oh"},
+    "please": {"f": "Por favor.|por fah-VOR"},
+    "excuse_me": {"f": "Disculpe.|dees-KOOL-peh", "i": "Perdona.|per-DOH-nah"},
+    "my_name_is": {"f": "Me llamo…|meh YAH-moh"},
+    "where_is_the_station": {"f": "¿Dónde está la estación?|DOHN-deh es-TAH lah es-tah-SYOHN"},
+    "i_need_a_taxi": {"f": "Necesito un taxi.|neh-seh-SEE-toh oon TAK-see"},
+    "how_do_i_get_to": {"f": "¿Cómo llego a…?|KOH-moh YEH-goh ah"},
+    "is_it_far": {"f": "¿Está lejos?|es-TAH LEH-hohs"},
+    "a_table_for_two_please": {"f": "Una mesa para dos, por favor.|OO-nah MEH-sah PAH-rah dohs por fah-VOR"},
+    "the_menu_please": {"f": "La carta, por favor.|lah KAR-tah por fah-VOR"},
+    "the_bill_please": {"f": "La cuenta, por favor.|lah KWEN-tah por fah-VOR"},
+    "i_m_allergic_to_nuts": {"f": "Soy alérgico/a a los frutos secos.|soy ah-LEHR-hee-koh ah lohs FROO-tohs SEH-kohs"},
+    "how_much_is_it": {"f": "¿Cuánto cuesta?|KWAN-toh KWEH-stah"},
+    "that_s_too_expensive": {"f": "Es demasiado caro.|es deh-mah-SYAH-doh KAH-roh"},
+    "do_you_accept_cards": {"f": "¿Aceptan tarjetas?|ah-SEP-tahn tar-HEH-tahs"},
+    "do_you_speak_english": {"f": "¿Habla inglés?|AH-blah een-GLEHS", "i": "¿Hablas inglés?|AH-blahs een-GLEHS"},
+    "please_speak_slowly": {"f": "Hable más despacio, por favor.|AH-bleh mahs des-PAH-syoh por fah-VOR", "i": "Habla más despacio, por favor.|AH-blah mahs des-PAH-syoh por fah-VOR"},
+    "can_you_repeat_that": {"f": "¿Puede repetir?|PWEH-deh reh-peh-TEER", "i": "¿Puedes repetir?|PWEH-dehs reh-peh-TEER"},
+    "can_you_write_it_down": {"f": "¿Puede escribirlo?|PWEH-deh es-kree-BEER-loh", "i": "¿Puedes escribirlo?|PWEH-dehs es-kree-BEER-loh"}
+  }
+}

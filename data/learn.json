@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "id": "greetings",
+      "icon": "👋",
+      "title": "Greetings",
+      "phrases": [
+        "hello",
+        "goodbye",
+        "please",
+        "excuse_me",
+        "my_name_is"
+      ]
+    },
+    {
+      "id": "getting_around",
+      "icon": "🧭",
+      "title": "Getting around",
+      "phrases": [
+        "where_is_the_station",
+        "i_need_a_taxi",
+        "how_do_i_get_to",
+        "is_it_far"
+      ]
+    },
+    {
+      "id": "food_and_drink",
+      "icon": "🍽️",
+      "title": "Food and drink",
+      "phrases": [
+        "a_table_for_two_please",
+        "the_menu_please",
+        "the_bill_please",
+        "i_m_allergic_to_nuts"
+      ]
+    },
+    {
+      "id": "shopping_and_money",
+      "icon": "🛍️",
+      "title": "Shopping and money",
+      "phrases": [
+        "how_much_is_it",
+        "that_s_too_expensive",
+        "do_you_accept_cards"
+      ]
+    },
+    {
+      "id": "being_understood",
+      "icon": "💬",
+      "title": "Being understood",
+      "phrases": [
+        "do_you_speak_english",
+        "please_speak_slowly",
+        "can_you_repeat_that",
+        "can_you_write_it_down"
+      ]
+    }
+  ]
+}

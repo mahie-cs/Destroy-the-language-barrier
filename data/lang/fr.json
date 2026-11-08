@@ -1,0 +1,37 @@
+{
+  "code": "fr",
+  "phrases": {
+    "hospital": "Où est l’hôpital ?|oo eh loh-pee-TAHL",
+    "police": "Où est le commissariat ?|oo eh luh koh-mee-sah-ree-AH",
+    "help": "Aidez-moi, s’il vous plaît !|eh-day MWAH seel voo PLEH",
+    "doctor": "J’ai besoin d’un médecin.|zhay buh-ZWAN dun mayd-SAN",
+    "ambulance": "Appelez une ambulance !|ah-puh-LAY oon ahn-bew-LAHNSS",
+    "name": "Comment vous appelez-vous ?|koh-MAHN voo zah-puh-lay VOO",
+    "thanks": "Merci.|mehr-SEE",
+    "toilet": "Où sont les toilettes ?|oo sohn lay twah-LET",
+    "water": "Où puis-je trouver de l’eau ?|oo pwee-zhuh troo-VAY duh LOH",
+    "understand": "Je ne comprends pas.|zhuh nuh kohm-PRAHN pah"
+  },
+  "learn": {
+    "hello": {"f": "Bonjour.|bohn-ZHOOR", "i": "Salut !|sah-LEW"},
+    "goodbye": {"f": "Au revoir.|oh ruh-VWAR", "i": "À plus !|ah PLEWSS"},
+    "please": {"f": "S’il vous plaît.|seel voo PLEH", "i": "S’il te plaît.|seel tuh PLEH"},
+    "excuse_me": {"f": "Excusez-moi.|ex-kew-zay MWAH", "i": "Excuse-moi.|ex-kewz MWAH"},
+    "my_name_is": {"f": "Je m’appelle…|zhuh mah-PEL"},
+    "where_is_the_station": {"f": "Où est la gare ?|oo eh lah GAR"},
+    "i_need_a_taxi": {"f": "J’ai besoin d’un taxi.|zhay buh-ZWAN dun tahk-SEE"},
+    "how_do_i_get_to": {"f": "Comment aller à… ?|koh-MAHN ah-LAY ah"},
+    "is_it_far": {"f": "C’est loin ?|seh LWAN"},
+    "a_table_for_two_please": {"f": "Une table pour deux, s’il vous plaît.|oon TAH-bluh poor DUH seel voo PLEH", "i": "Une table pour deux, s’il te plaît.|oon TAH-bluh poor DUH seel tuh PLEH"},
+    "the_menu_please": {"f": "La carte, s’il vous plaît.|lah KART seel voo PLEH", "i": "La carte, s’il te plaît.|lah KART seel tuh PLEH"},
+    "the_bill_please": {"f": "L’addition, s’il vous plaît.|lah-dee-SYOHN seel voo PLEH", "i": "L’addition, s’il te plaît.|lah-dee-SYOHN seel tuh PLEH"},
+    "i_m_allergic_to_nuts": {"f": "Je suis allergique aux noix.|zhuh swee ah-lehr-ZHEEK oh NWAH"},
+    "how_much_is_it": {"f": "C’est combien ?|seh kohm-BYAN"},
+    "that_s_too_expensive": {"f": "C’est trop cher.|seh troh SHAIR"},
+    "do_you_accept_cards": {"f": "Vous acceptez les cartes ?|voo zahk-sep-TAY lay KART", "i": "Tu acceptes les cartes ?|tew ahk-SEPT lay KART"},
+    "do_you_speak_english": {"f": "Parlez-vous anglais ?|par-lay VOO ahn-GLAY", "i": "Tu parles anglais ?|tew PARL ahn-GLAY"},
+    "please_speak_slowly": {"f": "Parlez lentement, s’il vous plaît.|par-LAY lahnt-MAHN seel voo PLEH", "i": "Parle lentement, s’il te plaît.|parl lahnt-MAHN seel tuh PLEH"},
+    "can_you_repeat_that": {"f": "Pouvez-vous répéter ?|poo-vay VOO ray-pay-TAY", "i": "Tu peux répéter ?|tew puh ray-pay-TAY"},
+    "can_you_write_it_down": {"f": "Pouvez-vous l’écrire ?|poo-vay VOO lay-KREER", "i": "Tu peux l’écrire ?|tew puh lay-KREER"}
+  }
+}

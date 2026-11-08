@@ -1,0 +1,37 @@
+{
+  "code": "en",
+  "phrases": {
+    "hospital": "Where is the hospital?",
+    "police": "Where is the police station?",
+    "help": "Help me, please!",
+    "doctor": "I need a doctor.",
+    "ambulance": "Call an ambulance!",
+    "name": "What’s your name?",
+    "thanks": "Thank you.",
+    "toilet": "Where is the toilet?",
+    "water": "Where can I get water?",
+    "understand": "I don’t understand."
+  },
+  "learn": {
+    "hello": {"f": "Hello", "i": "Hi!"},
+    "goodbye": {"f": "Goodbye", "i": "Bye!"},
+    "please": {"f": "Please"},
+    "excuse_me": {"f": "Excuse me", "i": "Sorry!"},
+    "my_name_is": {"f": "My name is…"},
+    "where_is_the_station": {"f": "Where is the station?"},
+    "i_need_a_taxi": {"f": "I need a taxi."},
+    "how_do_i_get_to": {"f": "How do I get to…?"},
+    "is_it_far": {"f": "Is it far?"},
+    "a_table_for_two_please": {"f": "A table for two, please."},
+    "the_menu_please": {"f": "The menu, please."},
+    "the_bill_please": {"f": "The bill, please."},
+    "i_m_allergic_to_nuts": {"f": "I’m allergic to nuts."},
+    "how_much_is_it": {"f": "How much is it?"},
+    "that_s_too_expensive": {"f": "That’s too expensive."},
+    "do_you_accept_cards": {"f": "Do you accept cards?"},
+    "do_you_speak_english": {"f": "Do you speak English?"},
+    "please_speak_slowly": {"f": "Please speak slowly.", "i": "Slow down a bit, please."},
+    "can_you_repeat_that": {"f": "Can you repeat that?", "i": "Say that again?"},
+    "can_you_write_it_down": {"f": "Can you write it down?"}
+  }
+}

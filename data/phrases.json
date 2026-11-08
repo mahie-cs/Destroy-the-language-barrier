@@ -1,0 +1,42 @@
+{
+  "hospital": {
+    "icon": "🏥",
+    "group": "e"
+  },
+  "police": {
+    "icon": "🚓",
+    "group": "e"
+  },
+  "help": {
+    "icon": "🆘",
+    "group": "e"
+  },
+  "doctor": {
+    "icon": "🩺",
+    "group": "e"
+  },
+  "ambulance": {
+    "icon": "🚑",
+    "group": "e"
+  },
+  "name": {
+    "icon": "👋",
+    "group": "c"
+  },
+  "thanks": {
+    "icon": "🙏",
+    "group": "c"
+  },
+  "toilet": {
+    "icon": "🚻",
+    "group": "c"
+  },
+  "water": {
+    "icon": "💧",
+    "group": "c"
+  },
+  "understand": {
+    "icon": "🤷",
+    "group": "c"
+  }
+}

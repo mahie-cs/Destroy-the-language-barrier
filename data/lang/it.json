@@ -1,0 +1,37 @@
+{
+  "code": "it",
+  "phrases": {
+    "hospital": "Dov’è l’ospedale?|doh-VEH lo-speh-DAH-leh",
+    "police": "Dov’è la stazione di polizia?|doh-VEH lah stah-tsee-OH-neh dee poh-lee-TSEE-ah",
+    "help": "Aiutatemi, per favore!|ah-yoo-TAH-teh-mee pehr fah-VOH-reh",
+    "doctor": "Ho bisogno di un medico.|oh bee-ZOH-nyoh dee oon MEH-dee-koh",
+    "ambulance": "Chiamate un’ambulanza!|kee-ah-MAH-teh oon ahm-boo-LAHN-tsah",
+    "name": "Come ti chiami?|KOH-meh tee kee-AH-mee",
+    "thanks": "Grazie.|GRAH-tsee-eh",
+    "toilet": "Dov’è il bagno?|doh-VEH eel BAH-nyoh",
+    "water": "Dove posso trovare acqua?|DOH-veh POHS-soh troh-VAH-reh AHK-kwah",
+    "understand": "Non capisco.|nohn kah-PEE-skoh"
+  },
+  "learn": {
+    "hello": {"f": "Buongiorno.|bwon-JOR-noh", "i": "Ciao!|chow"},
+    "goodbye": {"f": "Arrivederci.|ar-ree-veh-DEHR-chee", "i": "Ciao!|chow"},
+    "please": {"f": "Per favore.|pehr fah-VOH-reh"},
+    "excuse_me": {"f": "Mi scusi.|mee SKOO-zee", "i": "Scusa.|SKOO-zah"},
+    "my_name_is": {"f": "Mi chiamo…|mee KYAH-moh"},
+    "where_is_the_station": {"f": "Dov’è la stazione?|doh-VEH lah stah-TSYOH-neh"},
+    "i_need_a_taxi": {"f": "Ho bisogno di un taxi.|oh bee-ZOH-nyoh dee oon TAHK-see"},
+    "how_do_i_get_to": {"f": "Come arrivo a…?|KOH-meh ar-REE-voh ah"},
+    "is_it_far": {"f": "È lontano?|eh lon-TAH-noh"},
+    "a_table_for_two_please": {"f": "Un tavolo per due, per favore.|oon TAH-voh-loh pehr DOO-eh pehr fah-VOH-reh"},
+    "the_menu_please": {"f": "Il menù, per favore.|eel meh-NOO pehr fah-VOH-reh"},
+    "the_bill_please": {"f": "Il conto, per favore.|eel KOHN-toh pehr fah-VOH-reh"},
+    "i_m_allergic_to_nuts": {"f": "Sono allergico/a alla frutta secca.|SOH-noh ahl-LEHR-jee-koh AHL-lah FROOT-tah SEK-kah"},
+    "how_much_is_it": {"f": "Quanto costa?|KWAN-toh KOH-stah"},
+    "that_s_too_expensive": {"f": "È troppo caro.|eh TROHP-poh KAH-roh"},
+    "do_you_accept_cards": {"f": "Accettate carte di credito?|ah-cheht-TAH-teh KAR-teh dee KREH-dee-toh"},
+    "do_you_speak_english": {"f": "Parla inglese?|PAR-lah een-GLEH-zeh", "i": "Parli inglese?|PAR-lee een-GLEH-zeh"},
+    "please_speak_slowly": {"f": "Parli più lentamente, per favore.|PAR-lee pyoo lehn-tah-MEHN-teh pehr fah-VOH-reh", "i": "Parla più lentamente, per favore.|PAR-lah pyoo lehn-tah-MEHN-teh pehr fah-VOH-reh"},
+    "can_you_repeat_that": {"f": "Può ripetere?|pwoh ree-PEH-teh-reh", "i": "Puoi ripetere?|pwoy ree-PEH-teh-reh"},
+    "can_you_write_it_down": {"f": "Può scriverlo?|pwoh SKREE-vehr-loh", "i": "Puoi scriverlo?|pwoy SKREE-vehr-loh"}
+  }
+}

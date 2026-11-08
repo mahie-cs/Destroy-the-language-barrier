@@ -1,0 +1,37 @@
+{
+  "code": "ja",
+  "phrases": {
+    "hospital": "病院はどこですか？|byoh-in wa doh-ko des-ka",
+    "police": "警察署はどこですか？|kay-sa-tsu-sho wa doh-ko des-ka",
+    "help": "助けてください！|ta-su-ke-te kuh-da-sai",
+    "doctor": "医者が必要です。|ee-sha ga hit-syoh des",
+    "ambulance": "救急車を呼んでください！|kyoo-kyoo-sha oh yon-de kuh-da-sai",
+    "name": "お名前は何ですか？|oh-na-mae wa nan des-ka",
+    "thanks": "ありがとう。|a-ree-ga-toh",
+    "toilet": "トイレはどこですか？|toy-reh wa doh-ko des-ka",
+    "water": "水はどこで買えますか？|mee-zoo wa doh-ko deh ka-e-mas-ka",
+    "understand": "わかりません。|wa-ka-ree-ma-sen"
+  },
+  "learn": {
+    "hello": {"f": "こんにちは。|kohn-nee-chee-wah", "i": "やあ！|yaa"},
+    "goodbye": {"f": "さようなら。|sa-yoh-na-ra", "i": "じゃあね。|jaa neh"},
+    "please": {"f": "お願いします。|oh-neh-gai shee-mass", "i": "お願い。|oh-neh-gai"},
+    "excuse_me": {"f": "すみません。|soo-mee-ma-sen", "i": "ごめん。|go-men"},
+    "my_name_is": {"f": "私は…です。|wah-tah-shee wah … dess", "i": "名前は…だよ。|na-mae wa … da yo"},
+    "where_is_the_station": {"f": "駅はどこですか？|eh-kee wa doh-ko dess ka", "i": "駅どこ？|eh-kee doh-ko"},
+    "i_need_a_taxi": {"f": "タクシーが必要です。|tak-shee ga hit-syoh dess", "i": "タクシーが必要。|tak-shee ga hit-syoh"},
+    "how_do_i_get_to": {"f": "…へはどう行けばいいですか？|eh wa doh ee-keh-bah ee dess ka", "i": "…にはどう行けばいい？|nee wa doh ee-keh-bah ee"},
+    "is_it_far": {"f": "遠いですか？|toh-ee dess ka", "i": "遠い？|toh-ee"},
+    "a_table_for_two_please": {"f": "二人です。お願いします。|foo-ta-ree dess. oh-neh-gai shee-mass"},
+    "the_menu_please": {"f": "メニューをお願いします。|meh-nyoo oh oh-neh-gai shee-mass"},
+    "the_bill_please": {"f": "お会計をお願いします。|oh-kai-kay oh oh-neh-gai shee-mass"},
+    "i_m_allergic_to_nuts": {"f": "ナッツアレルギーがあります。|nat-tsoo a-reh-roo-gee ga a-ree-mass", "i": "ナッツアレルギーがある。|nat-tsoo a-reh-roo-gee ga a-roo"},
+    "how_much_is_it": {"f": "いくらですか？|ee-koo-ra dess ka", "i": "いくら？|ee-koo-ra"},
+    "that_s_too_expensive": {"f": "高すぎます。|ta-ka-soo-gee-mass", "i": "高すぎる。|ta-ka-soo-gee-roo"},
+    "do_you_accept_cards": {"f": "カードは使えますか？|kah-doh wa tsoo-kah-eh-mass ka", "i": "カード使える？|kah-doh tsoo-kah-eh-roo"},
+    "do_you_speak_english": {"f": "英語を話せますか？|eh-go oh ha-na-seh-mass ka", "i": "英語話せる？|eh-go ha-na-seh-roo"},
+    "please_speak_slowly": {"f": "ゆっくり話してください。|yook-koo-ree ha-na-shi-teh koo-da-sai", "i": "ゆっくり話して。|yook-koo-ree ha-na-shi-teh"},
+    "can_you_repeat_that": {"f": "もう一度お願いします。|moh ee-chee-doh oh-neh-gai shee-mass", "i": "もう一回言って。|moh ik-kai it-teh"},
+    "can_you_write_it_down": {"f": "書いてもらえますか？|kai-teh mo-ra-eh-mass ka", "i": "書いてくれる？|kai-teh koo-reh-roo"}
+  }
+}
