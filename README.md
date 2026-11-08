@@ -1,4 +1,4 @@
-# Lingua Aid
+# [Lingua Aid](https://mahie-cs.github.io/Destroy-the-language-barrier/)
 
 Emergency numbers and everyday phrases, with pronunciation and audio, for when you don't speak the language.
 Offline-first, no accounts, no tracking. Plain HTML, CSS and JavaScript: no build step and no framework.
