@@ -43,7 +43,13 @@
       ["Fire / Ambulance", "119"]
     ]
   },
-  "ES": { "name": "Spain", "flag": "🇪🇸", "lang": "es", "locale": "es-ES", "numbers": [["Emergency", "112"]] },
+  "ES": {
+    "name": "Spain",
+    "flag": "🇪🇸",
+    "lang": "es",
+    "locale": "es-ES",
+    "numbers": [["Emergency", "112"]]
+  },
   "GB": {
     "name": "United Kingdom",
     "flag": "🇬🇧",
@@ -60,5 +66,17 @@
     "lang": "en",
     "locale": "en-US",
     "numbers": [["Emergency", "911"]]
+  },
+  "RU": {
+    "name": "Russia",
+    "flag": "🇷🇺",
+    "lang": "ru",
+    "locale": "ru-RU",
+    "numbers": [
+      ["Emergency", "112"],
+      ["Fire", "101"],
+      ["Police", "102"],
+      ["Ambulance", "103"]
+    ]
   }
 }
