@@ -1,0 +1,37 @@
+{
+  "code": "ur",
+  "phrases": {
+    "hospital": "ہسپتال کہاں ہے؟|haspatal kahaan hai?",
+    "police": "پولیس اسٹیشن کہاں ہے؟|police station kahaan hai?",
+    "help": "برائے مہربانی میری مدد کریں!|bara-e-mehrbani meri madad karein!",
+    "doctor": "مجھے ڈاکٹر درکار ہے۔|mujhe doctor darkaar hai.",
+    "ambulance": "ایمبولینس کو کال کریں!|ambulance ko call karein!",
+    "name": "آپ کا نام کیا ہے؟|aap ka naam kya hai?",
+    "thanks": "شکریہ۔|shukriya.",
+    "toilet": "ٹائلٹ کہاں ہے؟|toilet kahaan hai?",
+    "water": "میں پانی کہاں سے حاصل کر سکتا ہوں؟|main paani kahaan se hasil kar sakta hoon?",
+    "understand": "مجھے سمجھ نہیں آیا۔|mujhe samajh nahi aaya."
+  },
+  "learn": {
+    "hello": {"f": "ہیلو|hello"},
+    "goodbye": {"f": "خدا حافظ|khuda hafiz"},
+    "please": {"f": "براہ کرم|baraa-e-karam"},
+    "excuse_me": {"f": "معذرت|maafi chahiye"},
+    "my_name_is": {"f": "میرا نام… ہے|mera naam... hai"},
+    "where_is_the_station": {"f": "اسٹیشن کہاں ہے؟|station kahaan hai?"},
+    "i_need_a_taxi": {"f": "مجھے ٹیکسی درکار ہے۔|mujhe taxi darkaar hai."},
+    "how_do_i_get_to": {"f": "میں… کیسے پہنچوں؟|main ... kaise pahunchoon?"},
+    "is_it_far": {"f": "کیا یہ دور ہے؟|kya yeh door hai?"},
+    "a_table_for_two_please": {"f": "براہ کرم دو افراد کے لیے میز دیں۔|baraa-e-karam do afraad ke liye mez dein."},
+    "the_menu_please": {"f": "مینیو دے دیجئے۔|menu de dijiyega."},
+    "the_bill_please": {"f": "بل فراہم کیجیے۔|bill faraham kijiye."},
+    "i_m_allergic_to_nuts": {"f": "مجھے مغزجات سے الرجی ہے۔|mujhe maghazaat se allergy hai."},
+    "how_much_is_it": {"f": "یہ کتنا ہے؟|yeh kitna hai?"},
+    "that_s_too_expensive": {"f": "یہ بہت مہنگا ہے۔|yeh bahut mehnga hai."},
+    "do_you_accept_cards": {"f": "کیا آپ کارڈ قبول کرتے ہیں؟|kya aap card qabool karte hain?"},
+    "do_you_speak_english": {"f": "کیا آپ انگریزی بولتے ہیں؟|kya aap angrezi bolte hain?"},
+    "please_speak_slowly": {"f": "براہ کرم آہستہ بولیں۔|baraa-e-karam aahista boliye."},
+    "can_you_repeat_that": {"f": "کیا آپ دوبارہ کہیں گے؟|kya aap dobara kahenge?"},
+    "can_you_write_it_down": {"f": "کیا آپ یہ لکھ دیں گے؟|kya aap yeh likh deinge?"}
+  }
+}

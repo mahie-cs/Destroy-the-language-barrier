@@ -43,6 +43,18 @@
       ["Fire / Ambulance", "119"]
     ]
   },
+  "PK": {
+    "name": "Pakistan",
+    "flag": "🇵🇰",
+    "lang": "ur",
+    "locale": "ur-PK",
+    "numbers": [
+      ["Emergency", "1122"],
+      ["Police", "15"],
+      ["Ambulance", "115"],
+      ["Fire", "16"]
+    ]
+  },
   "ES": {
     "name": "Spain",
     "flag": "🇪🇸",
