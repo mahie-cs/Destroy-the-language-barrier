@@ -78,5 +78,15 @@
       ["Police", "102"],
       ["Ambulance", "103"]
     ]
+  },
+  "KR": {
+    "name": "South Korea",
+    "flag": "🇰🇷",
+    "lang": "ko",
+    "locale": "ko-KR",
+    "numbers": [
+      ["Emergency", "112"],
+      ["Fire / Ambulance", "119"]
+    ]
   }
 }

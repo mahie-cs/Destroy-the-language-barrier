@@ -1,0 +1,37 @@
+{
+  "code": "ko",
+  "phrases": {
+    "hospital": "병원은 어디에 있습니까?|byeong-won-eun eo-di-e iss-seup-ni-kka",
+    "police": "경찰서는 어디에 있습니까?|gyeong-chal-seo-neun eo-di-e iss-seup-ni-kka",
+    "help": "도와주세요!|do-wa ju-se-yo",
+    "doctor": "의사가 필요합니다.|ui-sa-ga pi-ryo-ham-ni-da",
+    "ambulance": "구급차를 불러주세요!|gu-geup-cha-reul bul-leo ju-se-yo",
+    "name": "성함이 어떻게 되세요?|seong-ham-i eo-tteo-ke doe-se-yo",
+    "thanks": "감사합니다.|gam-sa-ham-ni-da",
+    "toilet": "화장실은 어디에 있습니까?|hwa-jang-sil-eun eo-di-e iss-seup-ni-kka",
+    "water": "물은 어디서 받을 수 있습니까?|mul-eun eo-di-seo ba-deul su iss-seup-ni-kka",
+    "understand": "이해하지 못합니다.|i-hae-ha-ji mot-ham-ni-da"
+  },
+  "learn": {
+    "hello": { "f": "안녕하세요.|an-nyeong-ha-se-yo", "i": "안녕!|an-nyeong" },
+    "goodbye": { "f": "안녕히 계세요.|an-nyeong-hi gye-se-yo", "i": "잘 가.|jal ga" },
+    "please": { "f": "부탁합니다.|bu-tak-ham-ni-da", "i": "부탁해.|bu-tak-hae" },
+    "excuse_me": { "f": "실례합니다.|sil-rye-ham-ni-da", "i": "미안해.|mi-an-hae" },
+    "my_name_is": { "f": "제 이름은 …입니다.|je i-reum-eun …ip-ni-da", "i": "내 이름은 …야.|nae i-reum-eun …ya" },
+    "where_is_the_station": { "f": "역은 어디에 있습니까?|yeo-geun eo-di-e iss-seup-ni-kka", "i": "역이 어디야?|yeo-gi eo-di-ya" },
+    "i_need_a_taxi": { "f": "택시가 필요합니다.|taek-si-ga pi-ryo-ham-ni-da", "i": "택시 필요해.|taek-si pi-ryo-hae" },
+    "how_do_i_get_to": { "f": "…에 어떻게 가면 됩니까?|…e eo-tteo-ke ga-myeon doem-ni-kka", "i": "…에 어떻게 가?|…e eo-tteo-ke ga" },
+    "is_it_far": { "f": "멀어요?|meo-reo-yo", "i": "멀어?|meo-reo" },
+    "a_table_for_two_please": { "f": "두 사람 자리 부탁합니다.|du sa-ram ja-ri bu-tak-ham-ni-da", "i": "두 명 자리 부탁해.|du myeong ja-ri bu-tak-hae" },
+    "the_menu_please": { "f": "메뉴를 부탁합니다.|me-nyu-reul bu-tak-ham-ni-da", "i": "메뉴 부탁해.|me-nyu bu-tak-hae" },
+    "the_bill_please": { "f": "계산서를 부탁합니다.|gye-san-seo-reul bu-tak-ham-ni-da", "i": "계산서 부탁해.|gye-san-seo bu-tak-hae" },
+    "i_m_allergic_to_nuts": { "f": "견과류 알레르기가 있습니다.|gyeon-gwa-ryu al-le-reu gi-ga iss-seup-ni-da", "i": "견과류 알레르기 있어.|gyeon-gwa-ryu al-le-reu gi iss-eo" },
+    "how_much_is_it": { "f": "얼마입니까?|eol-ma-ip-ni-kka", "i": "얼마야?|eol-ma-ya" },
+    "that_s_too_expensive": { "f": "너무 비쌉니다.|neo-mu bi-sseum-ni-da", "i": "너무 비싸.|neo-mu bi-ssa" },
+    "do_you_accept_cards": { "f": "카드를 받습니까?|ka-deu-reul bat-seup-ni-kka", "i": "카드 받아?|ka-deu ba-da" },
+    "do_you_speak_english": { "f": "영어를 하십니까?|yeong-eo-reul ha-sim-ni-kka", "i": "영어 해?|yeong-eo hae" },
+    "please_speak_slowly": { "f": "천천히 말씀해 주십시오.|cheon-cheon-hi mal-sseum-hae ju-sip-si-o", "i": "천천히 말해.|cheon-cheon-hi mal-hae" },
+    "can_you_repeat_that": { "f": "다시 말씀해 주십시오.|da-si mal-sseum-hae ju-sip-si-o", "i": "다시 말해.|da-si mal-hae" },
+    "can_you_write_it_down": { "f": "적어 주실 수 있습니까?|jeo-geo ju-sil su iss-seup-ni-kka", "i": "적어 줄래?|jeo-geo jul-lae" }
+  }
+}
