@@ -1,0 +1,37 @@
+{
+  "code": "pt",
+  "phrases": {
+    "hospital": "Onde fica o hospital?|OHN-jee FEE-kah oo ohs-pee-TOW",
+    "police": "Onde fica a delegacia?|OHN-jee FEE-kah ah deh-leh-gah-SEE-ah",
+    "help": "Ajude-me, por favor!|ah-ZHOO-jee-mee por fah-VOR",
+    "doctor": "Preciso de um médico.|preh-SEE-zoo jee oon MEH-jee-koo",
+    "ambulance": "Chame uma ambulância!|SHAH-mee OO-mah am-boo-LAHN-see-ah",
+    "name": "Qual é o seu nome?|KWOW eh oo SEH-oo NOH-mee",
+    "thanks": "Obrigado.|oh-bree-GAH-doo",
+    "toilet": "Onde fica o banheiro?|OHN-jee FEE-kah oo bah-NYAY-roo",
+    "water": "Onde posso conseguir água?|OHN-jee POH-soo kon-seh-GEER AH-gwah",
+    "understand": "Não entendo.|NOWN en-TEN-doo"
+  },
+  "learn": {
+    "hello": {"f": "Olá.|oh-LAH", "i": "Oi!|OY"},
+    "goodbye": {"f": "Adeus.|ah-DEH-oos", "i": "Tchau!|CHOW"},
+    "please": {"f": "Por favor.|por fah-VOR"},
+    "excuse_me": {"f": "Com licença.|kohn lee-SEHN-sah", "i": "Desculpe!|des-KOOL-pee"},
+    "my_name_is": {"f": "Meu nome é…|MEH-oo NOH-mee eh"},
+    "where_is_the_station": {"f": "Onde fica a estação?|OHN-jee FEE-kah ah es-tah-SOWN"},
+    "i_need_a_taxi": {"f": "Preciso de um táxi.|preh-SEE-zoo jee oon TAHK-see"},
+    "how_do_i_get_to": {"f": "Como chego a…?|KOH-moo SHEH-goo ah"},
+    "is_it_far": {"f": "É longe?|eh LOHN-zhee"},
+    "a_table_for_two_please": {"f": "Uma mesa para dois, por favor.|OO-mah MEH-zah PAH-rah DOYZ por fah-VOR"},
+    "the_menu_please": {"f": "O cardápio, por favor.|oo kar-DAH-pyoo por fah-VOR"},
+    "the_bill_please": {"f": "A conta, por favor.|ah KOHN-tah por fah-VOR"},
+    "i_m_allergic_to_nuts": {"f": "Sou alérgico/a a nozes.|SOH-oo ah-LEHR-zhee-koo ah NOH-zees"},
+    "how_much_is_it": {"f": "Quanto custa?|KWAHN-too KOOS-tah"},
+    "that_s_too_expensive": {"f": "Está muito caro.|es-TAH MOON-too KAH-roo"},
+    "do_you_accept_cards": {"f": "Aceita cartão?|ah-SAY-tah kar-TOWN"},
+    "do_you_speak_english": {"f": "Você fala inglês?|voh-SEH FAH-lah een-GLEYS", "i": "Fala inglês?|FAH-lah een-GLEYS"},
+    "please_speak_slowly": {"f": "Fale mais devagar, por favor.|FAH-lee MYSS jee-vah-GAHR por fah-VOR", "i": "Fala mais devagar, por favor.|FAH-lah MYSS jee-vah-GAHR por fah-VOR"},
+    "can_you_repeat_that": {"f": "Pode repetir, por favor?|POH-jee heh-peh-TEER por fah-VOR", "i": "Pode repetir?|POH-jee heh-peh-TEER"},
+    "can_you_write_it_down": {"f": "Pode escrever, por favor?|POH-jee es-kreh-VEHR por fah-VOR", "i": "Pode escrever?|POH-jee es-kreh-VEHR"}
+  }
+}

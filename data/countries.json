@@ -9,6 +9,17 @@
       ["Fire service", "199"]
     ]
   },
+  "BR": {
+    "name": "Brazil",
+    "flag": "🇧🇷",
+    "lang": "pt",
+    "locale": "pt-BR",
+    "numbers": [
+      ["Police", "190"],
+      ["Ambulance (SAMU)", "192"],
+      ["Fire", "193"]
+    ]
+  },
   "FR": {
     "name": "France",
     "flag": "🇫🇷",
