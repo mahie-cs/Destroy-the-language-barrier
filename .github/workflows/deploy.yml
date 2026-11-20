@@ -1,13 +1,10 @@
 name: Deploy to GitHub Pages
 
-# Publishes the site on every push to main, and again after new audio is committed.
+# Publishes the site on pushes to main and manual runs.
 # One-time setup: repo Settings > Pages > Source: GitHub Actions.
 on:
   push:
     branches: [main]
-  workflow_run:
-    workflows: ["Generate audio"]
-    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -21,15 +18,12 @@ concurrency:
 
 jobs:
   deploy:
-    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main
       - name: Validate data
         run: python3 tools/validate_data.py
       - name: Assemble site
@@ -39,4 +33,4 @@ jobs:
         with:
           path: _site
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
